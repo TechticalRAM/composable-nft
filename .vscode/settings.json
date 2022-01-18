@@ -1,0 +1,4 @@
+{
+  "vscode-ethover.address.lookupUrl": "https://etherscan.com/address/{address}",
+  "solidity.compileUsingRemoteVersion": "v0.8.11+commit.d7f03943",
+}
